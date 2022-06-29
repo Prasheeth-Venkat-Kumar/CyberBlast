@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 27e499b00eb3ae94ca8b5b28bd3bfdcd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CCV001_nyknck_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858b9eaf05b4144cbe8a6eaf4f0cdae
+      internalID: 148504448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 768
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6be625455d3f4e45b2e19852b7a35e2
+      internalID: 1242605053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 768
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb7773f3d32ce4dbec526a9bcd5c1c
+      internalID: -596659526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 768
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbc50aa94f0454e8c6481c9b2eef6f
+      internalID: 125558273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 768
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db569b790193a41b65162cbe92bff5
+      internalID: 1473538014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 768
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a262b43700a4946b30c8f853e671a6
+      internalID: 264585900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 654
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a896bfd8f1bfc42976448c52745130
+      internalID: -512601573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 698
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b264ca8fdfe4dd4fa9e2c8ca7bd1b08
+      internalID: -1179183972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 696
+        width: 101
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b49fb5a91a3c84397d6f1729c690af
+      internalID: -976923158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0139e4e4af193c2419c08689ea86d867
+      internalID: -124646343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c710c66fabda943b3414a268feb96d
+      internalID: -451134050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ff5b331f5c5a4f842296196b9876e
+      internalID: 1958224946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caecf7340b9ac3342a2a89236414ce4d
+      internalID: -273260448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704cf198c7bb2fc4f90d3e98b8a05bb4
+      internalID: 282056863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 564
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845870f8edc4f74591678ba8b51b74f
+      internalID: -2078924388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 480
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274468144bf87c04fb4efe0a99bd8dac
+      internalID: -809323236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b4cba6ca610f2479a3f14b6206b125
+      internalID: 1662292040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c222e0e0d54c20f4aae9fc31b32659b8
+      internalID: 960049312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b94ae26a2d173a45a588db3e453c349
+      internalID: 1964040045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993fe0a3e69c374459f5b2fcd52901d0
+      internalID: 1236234159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 500
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08afe2ac967d6f44cb8caacec0a1d57a
+      internalID: -387414183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 500
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781688100fc3784c869cda0ef38ab59
+      internalID: 2125767159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84d40e8ca551d04c9a9eb1cab0cf9d7
+      internalID: -1400787837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 504
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fc006f3c3356441b69b9039fb7e19b
+      internalID: 291817457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab611e4d566794d9f73bc43b81b304
+      internalID: -972429426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 502
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a19cedf2fb2614fbd6e575ce843341
+      internalID: -2095177931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 485
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a2e1c0cc499740a5b055ba2915055
+      internalID: -1872160301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ba4c55ad047284a88295c2989ed377
+      internalID: -749584183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 409
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac9f35d342e2a043b3565a8453bc553
+      internalID: -552071459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 407
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279c7caebe550b44bd12e3a08f5ac2d
+      internalID: 1835125598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 407
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f574fbf5206e46ac56e571734ac6b
+      internalID: 110301399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 403
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d86c25b2219bb448a418c1f0384289
+      internalID: -525270055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d5654028bbd214caeca49fcfee34d5
+      internalID: -1854991113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 406
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d36bb45fbb77143b47baec13dca3af
+      internalID: 1233772184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 406
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a2368dd7e315a4bb900b6adea1f917
+      internalID: 1902655270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 361
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa066b59885b34c8f1c6c92e647971
+      internalID: 182887633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 372
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3009f7bd1692d4c8f589daa330f051
+      internalID: 659976201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 266
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e41442796b3ce74f905dd4730709d98
+      internalID: 77391457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 306
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33590ea431b29de4dbdf6783aa0e5125
+      internalID: -21709601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 306
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7985bad331eb73c4da1aff186fbdeb93
+      internalID: 1942955911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 303
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9268d536f39e74fb0f4275028fffcc
+      internalID: 279301916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 303
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f514af188a582e4395e2edfbe5bc52c
+      internalID: 1168028684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 310
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93e6dcd548951646ab9d080bb2cfd84
+      internalID: 522726444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 310
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb050480c21774fbb91a82dde4b958
+      internalID: -1609858013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 306
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ea737316c7f341ae106735bbebe77
+      internalID: 350023440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 306
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b427c1daf8114f9a42faef3220baf
+      internalID: 814750071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 279
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38658bcae657adc41a6d384acfb14ace
+      internalID: 400535416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 151
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808b13b6fc0fef4e8ac9d3a160fb7ee
+      internalID: 507871531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 53
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe85d46757b3894db5a779827337653
+      internalID: 891755077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde7f29edaa467439cc98926a91a78b
+      internalID: -1571259023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb72638aaedef1a4fba068f4edf94867
+      internalID: -13818023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924870793de3d2a4f9dd9403e062bba0
+      internalID: -1888279469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4110fdc6ece80429d4734136b3bbff
+      internalID: 1289368487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 33
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b1db3158957743bba0ac4a689d51e
+      internalID: -1925899430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CCV001_nyknck_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 45
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f050634d02808945a2fb0c79a30b10b
+      internalID: 581980643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CCV001_nyknck_29: 1835125598
+      CCV001_nyknck_53: -1925899430
+      CCV001_nyknck_33: 1233772184
+      CCV001_nyknck_7: -1179183972
+      CCV001_nyknck_51: -1888279469
+      CCV001_nyknck_42: 522726444
+      CCV001_nyknck_31: -525270055
+      CCV001_nyknck_27: -749584183
+      CCV001_nyknck_48: 891755077
+      CCV001_nyknck_49: -1571259023
+      CCV001_nyknck_4: 1473538014
+      CCV001_nyknck_12: -273260448
+      CCV001_nyknck_37: 77391457
+      CCV001_nyknck_30: 110301399
+      CCV001_nyknck_26: -1872160301
+      CCV001_nyknck_25: -2095177931
+      CCV001_nyknck_23: 291817457
+      CCV001_nyknck_24: -972429426
+      CCV001_nyknck_45: 814750071
+      CCV001_nyknck_36: 659976201
+      CCV001_nyknck_10: -451134050
+      CCV001_nyknck_32: -1854991113
+      CCV001_nyknck_1: 1242605053
+      CCV001_nyknck_11: 1958224946
+      CCV001_nyknck_21: 2125767159
+      CCV001_nyknck_13: 282056863
+      CCV001_nyknck_46: 400535416
+      CCV001_nyknck_8: -976923158
+      CCV001_nyknck_40: 279301916
+      CCV001_nyknck_6: -512601573
+      CCV001_nyknck_16: 1662292040
+      CCV001_nyknck_22: -1400787837
+      CCV001_nyknck_52: 1289368487
+      CCV001_nyknck_2: -596659526
+      CCV001_nyknck_18: 1964040045
+      CCV001_nyknck_20: -387414183
+      CCV001_nyknck_28: -552071459
+      CCV001_nyknck_54: 581980643
+      CCV001_nyknck_43: -1609858013
+      CCV001_nyknck_35: 182887633
+      CCV001_nyknck_50: -13818023
+      CCV001_nyknck_15: -809323236
+      CCV001_nyknck_47: 507871531
+      CCV001_nyknck_9: -124646343
+      CCV001_nyknck_44: 350023440
+      CCV001_nyknck_3: 125558273
+      CCV001_nyknck_38: -21709601
+      CCV001_nyknck_5: 264585900
+      CCV001_nyknck_39: 1942955911
+      CCV001_nyknck_0: 148504448
+      CCV001_nyknck_34: 1902655270
+      CCV001_nyknck_41: 1168028684
+      CCV001_nyknck_17: 960049312
+      CCV001_nyknck_14: -2078924388
+      CCV001_nyknck_19: 1236234159
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
